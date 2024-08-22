@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '', url: '' },
+    { title: '七年公众号作者，数字游民，野生开发者', url: 'https://xzddf.com' },
     { title: '', url: '' }
   ],
 
@@ -15,17 +15,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享有价值的内容',
+  HEO_HERO_TITLE_2: '消除信息差',
+  HEO_HERO_TITLE_3: 'XZDDF.COM',
+  HEO_HERO_TITLE_4: '玩币入门',
+  HEO_HERO_TITLE_5: '教你轻松购买加密货币',
+  HEO_HERO_TITLE_LINK: 'https://xzddf.com/article/00',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
-  HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/category/奇技淫巧' },
-  HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/category/七嘴八舌' },
+  // HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
+  // HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/category/奇技淫巧' },
+  // HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/category/七嘴八舌' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '分享有价值的内容，消除信息差',
+    '写字的地方✍️',
   ],
 
   // 个人资料底部按钮
