@@ -22,10 +22,10 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '教你轻松购买加密货币',
   HEO_HERO_TITLE_LINK: 'https://xzddf.com/article/00',
 
-  // 英雄区显示三个置顶分类
-  // HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
-  // HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/category/奇技淫巧' },
-  // HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/category/七嘴八舌' },
+  英雄区显示三个置顶分类
+  HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
+  HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/category/奇技淫巧' },
+  HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/category/七嘴八舌' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
