@@ -10,22 +10,22 @@ const CONFIG = {
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: true,
+  HEO_HERO_REVERSE: false,
   // 博客主体区左右侧组件颠倒位置
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  // HEO_HERO_TITLE_1: '分享编程',
+  // HEO_HERO_TITLE_2: '与思维认知',
+  // HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  // HEO_HERO_TITLE_4: '新版上线',
+  // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/tag/数字游民' },
-  HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/tag/奇技淫巧' },
-  HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/tag/七嘴八舌' },
+  HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
+  HEO_HERO_CATEGORY_2: { title: '奇技淫巧', url: '/category/奇技淫巧' },
+  HEO_HERO_CATEGORY_3: { title: '七嘴八舌', url: '/category/七嘴八舌' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
