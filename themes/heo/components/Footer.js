@@ -35,7 +35,6 @@ const Footer = ({ title }) => {
             className='underline font-bold dark:text-gray-300 '>
             {siteConfig('AUTHOR')}
           </a>
-          
         </div>
 
         <div id='footer-bottom-right'>
