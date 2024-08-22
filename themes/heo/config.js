@@ -6,7 +6,6 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '七年公众号作者，数字游民，野生开发者', url: 'https://xzddf.com' },
-    { title: '', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
