@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  // HEO_HERO_TITLE_1: '分享编程',
-  // HEO_HERO_TITLE_2: '与思维认知',
-  // HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  // HEO_HERO_TITLE_4: '新版上线',
-  // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/category/数字游民' },
@@ -34,9 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
     '分享有价值的内容，消除信息差',
-    '七年公众号作者，数字游民，野生开发者',
   ],
 
   // 个人资料底部按钮
@@ -109,7 +107,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '订阅频道',
-  HEO_SOCIAL_CARD_TITLE_2: '订阅频道加入社群分享',
+  HEO_SOCIAL_CARD_TITLE_2: '订阅Telegram频道',
   HEO_SOCIAL_CARD_TITLE_3: '点击订阅频道',
   HEO_SOCIAL_CARD_URL: 'https://t.me/xzddfcom',
 
